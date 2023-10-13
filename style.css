@@ -35,17 +35,17 @@
     padding: 8px;
     color: #2D3748;
 }
-.listing {
+.attack-info {
     display:flex;
     justify-content:space-between;
     align-items:baseline;
     margin-bottom:4px;
 }
-.price {
+.attack {
     font-size: 24px;
     font-weight: bold;
 }
-.address {
+.description {
     font-weight:bold;
     margin-bottom:4px;
 }
