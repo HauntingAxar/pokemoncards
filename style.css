@@ -44,13 +44,16 @@
 .attack {
     font-size: 24px;
     font-weight: bold;
+    color:darkmagenta;
 }
 .description {
     font-weight:bold;
     margin-bottom:4px;
+    color:rebeccapurple;
 }
-.type {
+.copyright {
     font-size: 12px;
+    color:cornflowerblue;
 }
 a {
     text-decoration: none;
