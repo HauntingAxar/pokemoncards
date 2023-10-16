@@ -28,7 +28,7 @@
 .Basic-info {
     background-color: rgba(45, 55, 72, 0.67);
     color:white;
-    position: right;
+    position:absolute;
     padding: 4px 8px;
 }
 .info {
