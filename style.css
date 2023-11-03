@@ -58,3 +58,12 @@
 a {
     text-decoration: none;
 }
+.acme {
+    font-family:"Acme", sans-serif;
+}
+.sofia {
+    font-family: "Sofia", sans-serif;
+}
+.lucida {
+    font-family: "Lucida Console", Lucida, monospace;
+}
